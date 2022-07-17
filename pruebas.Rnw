@@ -3,7 +3,7 @@
 \begin{document}
 \SweaveOpts{concordance=TRUE}
 
-Estoy en la rama de prueba 1
+Estoy en la rama de prueba 1 yquiero conflicto
 
 
 \end{document}
